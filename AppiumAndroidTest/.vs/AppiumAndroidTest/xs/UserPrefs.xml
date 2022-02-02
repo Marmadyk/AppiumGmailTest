@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{6AB8A2C5-87AB-4ED5-A3F2-7174DBD21493}|Default">
+  <MonoDevelop.Ide.ItemProperties.AppiumAndroidTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppiumAndroidTest/BaseTest.cs">
+    <Files>
+      <File FileName="AppiumAndroidTest/UnitTest1.cs" Line="7" Column="6" />
+      <File FileName="AppiumAndroidTest/BaseTest.cs" Line="14" Column="38" />
+      <File FileName="AppiumAndroidTest/PageObjects/BasePage.cs" />
+      <File FileName="AppiumAndroidTest/PageObjects/HomePage.cs" />
+      <File FileName="AppiumAndroidTest/PageObjects/MainPage.cs" />
+      <File FileName="AppiumAndroidTest/PageObjects/EmailPage.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppiumAndroidTest" expanded="True">
+            <Node name="AppiumAndroidTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="PageObjects" expanded="True" />
+              <Node name="BaseTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AppiumAndroidTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
