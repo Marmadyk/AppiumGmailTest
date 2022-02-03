@@ -5,7 +5,7 @@ namespace AppiumAndroidTest
 {
     public class Tests : BaseTest
     {
-        private readonly string actualText = "//*[@class='android.view.View']";
+        private readonly string actualText = "//android.view.View)[1]]";
         private readonly string expectedText = "Success!";
 
         [Test]
